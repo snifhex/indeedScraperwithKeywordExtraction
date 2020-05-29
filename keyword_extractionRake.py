@@ -1,5 +1,5 @@
 from gensim.parsing.preprocessing import remove_stopwords
-from nltk_rake import Rake
+from rake_nltk import Rake
 
 doc = """HSN is looking for an outstanding Full stack python developer, who is highly proficient in creating fast loading websites — either using a standard CMS backend, or a custom CMS. The developer should have worked on other projects and should be able to showcase what they have done.
 
